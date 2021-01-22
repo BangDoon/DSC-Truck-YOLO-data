@@ -1,0 +1,5 @@
+train: ./expert/train
+val: ./expert/val
+
+nc: 2
+names: ['badTruck', 'normalTruck']
